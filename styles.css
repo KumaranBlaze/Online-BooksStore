@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'Roboto Mono';
+    src: url(/assets/fonts/Roboto_Mono/RobotoMono-Regular.ttff) format("truetype");
+}
+
+body{
+    font-family: 'Roboto Mono';
+}
